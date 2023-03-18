@@ -75,14 +75,14 @@ xnor(y7,a,b);
 endmodule
 */
 
-LOGIC SYMBOL AND TRUTHTABLE:
+**LOGIC SYMBOL AND TRUTHTABLE:
 ![image](https://user-images.githubusercontent.com/120103862/226100374-e039ebe4-8876-4ce5-a778-d2ea64a9b300.png)
 ![image](https://user-images.githubusercontent.com/120103862/226100408-adc5b694-1dba-4edf-bd5b-a0a40b5e7e15.png)
 
-OUTPUT AND RTL REALISATION:
+**OUTPUT AND RTL REALISATION:**
 ![de diagram](https://user-images.githubusercontent.com/120103862/226100448-8b7c6db0-1c55-4513-87ff-6b479e87cebf.png)
 
 ![wave form 1](https://user-images.githubusercontent.com/120103862/226100461-e7fcbdc8-7926-456a-a520-0e0caf11c633.png)
 
-Result:
+**Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
