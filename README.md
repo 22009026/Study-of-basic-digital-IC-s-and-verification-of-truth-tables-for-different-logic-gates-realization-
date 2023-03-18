@@ -80,6 +80,7 @@ Logic symbol & Truthtable
 
 RTL realization:
 ![de diagram](https://user-images.githubusercontent.com/120103862/226100448-8b7c6db0-1c55-4513-87ff-6b479e87cebf.png)
+
 OUTPUT:
 ![wave form 1](https://user-images.githubusercontent.com/120103862/226100461-e7fcbdc8-7926-456a-a520-0e0caf11c633.png)
 
